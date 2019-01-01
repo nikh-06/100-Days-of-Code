@@ -1,2 +1,2 @@
-# 100-Days-of-Code
-Here I will share my progress and programs that i make for next 100 days.
+# 100DaysofCode
+Here I will share code of the programs that i will make in my 100DaysofCode
